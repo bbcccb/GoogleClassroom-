@@ -341,7 +341,7 @@ The author does not accept responsibility for misuse of this project.
 
 ---
 
-## Final disclaimer / 最終免責聲明
+## Disclaimer / 免責聲明
 
 This project is provided as-is for educational and research purposes. It is meant to assist certain staff workflows in a lawful and accountable manner. Any use beyond that scope, including unauthorized access or unlawful activity, is strictly outside the intent of this project.
 
@@ -363,22 +363,5 @@ This project is provided as-is for educational purposes. If you plan to publish 
 
 本專案以原樣提供，僅供教育與研究用途。如果你計劃公開發布，請補上開源授權，例如 MIT 或 Apache 2.0。
 
----
 
-## Quick summary / 快速總結
 
-1. Put your account list in Excel.
-2. Update the paths in the script.
-3. Run the script in test mode first.
-4. If it works, run the real login batch.
-5. Check the CSV log file for the result of each account.
-
-1. 將帳號列表放入 Excel。
-2. 更新腳本中的路徑。
-3. 先用測試模式執行。
-4. 若正常，再執行實際登入批次。
-5. 檢查 CSV 日誌，查看每個帳號結果。
-
-If you want, I can continue with a cleaner GitHub-ready version that includes a project description, a badge section, and a more polished open-source homepage layout.
-
-如果你要，我可以再幫你做一版更適合 GitHub 的精簡版 README，包含首頁描述、badge、以及更正式的開源專案風格。
